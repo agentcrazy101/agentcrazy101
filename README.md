@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @agentcrazyd
+- 👋 Hi, I’m Agent-D
 - 👀 I’m interested in Programming and Penetration Testing
 - 🌱 I’m currently learning Programming and Penetration Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate Coding and Penetration Testing
+- 📫 Email - agentcrazyd101@gmail.com
 
 <!---
 agentcrazy101/agentcrazy101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
